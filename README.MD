@@ -1,4 +1,4 @@
-# Retour sur les ressources fournis avant le démarrage de THP
+# Analyse des ressources pré-THP fournis
 
 La méthode ~~Coué~~ Bento :
 
@@ -43,13 +43,13 @@ Bref, le désert. Pas une seule ligne de code ne se profilant à l'horizon et à
 
 ![](https://media.giphy.com/media/cXCVTR1wUn1a8/giphy.gif)
 
-*Hein ? Mais alors quoi tonton Bento ?! Hein ?
+*Hein ? Mais alors quoi tonton Bento ?! Hein ?*
 
 Alors quoi ? Alors des films, des livres, des séries, des articles, des conférences. En bref, de la culture :
 
 - [Jiro Dreams of Sushi (Documentaire)](http://www.allocine.fr/film/fichefilm_gen_cfilm=193435.html)
 - [La faute de l'école : Pourquoi il faut une révolution de l'éducation (Article)](https://www.mercialfred.com/topos/education)
-- [Céline Alvarez - Les lois naturelles de l'enfant(Livre)](https://www.babelio.com/livres/Alvarez-Les-lois-naturelles-de-lenfant/840483)
+- [Céline Alvarez - Les lois naturelles de l'enfant (Livre)](https://www.babelio.com/livres/Alvarez-Les-lois-naturelles-de-lenfant/840483)
 - [Key Note de Présentation de l'Iphone en 2007 (Conférence)](https://www.youtube.com/watch?v=vN4U5FqrOdQ)
 - [Halt and Catch Fire (Série TV)](https://www.slate.fr/story/152540/halt-and-catch-fire-fin)
 
@@ -69,7 +69,7 @@ Moi, l'une de mes passions dans la vie, c'est la philo. Mais ce n'est pas un bou
 
 *C'est-y pas bientôt fini de nous raconter sa vie ? Déjà que j'ai pas pu finir la biographie de Steve Jobs, je suis pas prêt de me farcir la sienne...*
 
-Note à moi-même : la schizophrénie ça se soigne. Mais je suis trop effrayé par le fait de me retrouver [seul face au silence éternel de ces espaces infinis](https://www.franceinter.fr/emissions/un-ete-avec-pascal/un-ete-avec-pascal-22-juillet-2019)
+Note à moi-même : la schizophrénie ça se soigne. Mais je suis trop effrayé par le fait de me retrouver [seul face au silence éternel de ces espaces infinis.](https://www.franceinter.fr/emissions/un-ete-avec-pascal/un-ete-avec-pascal-22-juillet-2019)
 
 [Bref](https://www.youtube.com/watch?v=UO8tcf3U0dY&list=PLlFikkv2B2ffwYiFQJmcao3RKtw1DFMz5).
 
@@ -110,7 +110,7 @@ Et pour atteindre son objectif, devinez quoi ? Il est allé à la Fnac et il a a
 
 Naaaaaaan !!!
 
-Papy-Jiro-Nissan s'est levé le maffre et a cravaché comme un forcené jour et nuit toute sa vie jusqu'à manger, rêver et [murmurer à l'oreille des Sushi](https://fr.wikipedia.org/wiki/L%27Homme_qui_murmurait_%C3%A0_l%27oreille_des_chevaux). Et toi avec le code, c'est pareil. Y'a pas de secret. Et si un mec se pointe et essaie de te vendre un bouquin de développement personnel qui t'expliques que c'est possible et facile, tu lui prends son bouquin et t'organise un brainstorming pour trouver la façon la plus innovante de le lui faire pénétrer à l'intérieur de son corps. Car c'est pas avec 3 mois de Bootcamp (même celui de THP), que tu vas finir codeur pro, hacker la [NSA et mettre fin au système de surveillance de masse](https://www.babelio.com/livres/Snowden-Memoires-vives/1162306). Désolé de briser tes rêves.
+Papi-Jiro-Nissan s'est levé le maffre et a cravaché comme un forcené jour et nuit toute sa vie jusqu'à manger, rêver et [murmurer à l'oreille des Sushi](https://fr.wikipedia.org/wiki/L%27Homme_qui_murmurait_%C3%A0_l%27oreille_des_chevaux). Et toi avec le code, c'est pareil. Y'a pas de secret. Et si un mec se pointe et essaie de te vendre un bouquin de développement personnel qui t'expliques que c'est possible et facile, tu lui prends son bouquin et t'organise un brainstorming pour trouver la façon la plus innovante de le lui faire pénétrer à l'intérieur de son corps. Car c'est pas avec 3 mois de Bootcamp (même celui de THP), que tu vas finir codeur pro, hacker la [NSA et mettre fin au système de surveillance de masse](https://www.babelio.com/livres/Snowden-Memoires-vives/1162306). Désolé de briser tes rêves.
 
 En revanche avec THP, tu vas te prendre pour un papi-jiro-ni-tchouin pendant 3 mois non-stop. Tu vas bouffer du tuto tous les matins et pisser du code toute l'aprem (voir toute la nuit selon ton taux de résistance à l'effort et ton niveau d'implication). Au début, tu vas en chier, après tu vas en chier, et pour finir, tu vas en chier comme jamais t'en a chier auparavant. C'est THP. C'est la vie. Deal with it. Mais niveau expérience, tu vas ressortir avec de l'or en barre dans les mains et si tu continues sur cette lancée tu finiras carrément avec les mains de Midas et c'est le code que tu toucheras qui se transformera en or. 
 
@@ -134,65 +134,72 @@ Le truc, c'est que tu ne sais pas jusqu'où tu vas devoir creuser. Donc l'astuce
 
 *V'là qu'il s'la joue poète maintenant… y vas pas tarder à commencer à me compter fleurette, vous allez voir...*
 
-Ouep, d'ailleurs sortez les violons parce que je vais mettre mon âme à nu et te révéler un secret.
+Ouep, d'ailleurs sortez les violons parce que je vais mettre mon âme à vous et vous parler de mon histoire personnelle.
 
 ![](https://media1.tenor.com/images/dc7a2f80dda5a61472e40265ee27884a/tenor.gif?itemid=5325576)
 
-À la base, je suis une ~~jacque~~ brêle en science et en logique. J'ai même foiré mon test de logique pour entrer en DUT et je me suis retrouvé en BTS. Nan, mon truc à moi, c'est la réflexion humaine et la littérature. Mais les raisonnements logiques mathématiques et moi, on n'est pas super copaings.
+À la base, je suis une ~~Jacque~~ brêle en science et en logique. J'ai même foiré mon test de logique pour entrer en DUT et je me suis retrouvé en BTS. Nan, mon truc à moi, c'est la réflexion humaine et la littérature. Mais les raisonnements logiques mathématiques et moi, on n'est pas super copaings.
 
-Seulement, depuis que je suis une petite fripouille de Bentouille, je veux faire de l'informatique parce que créer des sites web, c'est cool et que philosophe c'est pas trop le métier en vogue dans la start-up nation en ce moment, mais ça on en a déjà parlé.
-Donc j'ai bouffé 3 années d'études d'info (BTS + Licence Pro) orienté programmation. Oui, parce que le réseau et moi, on n'est pas super copaing.
+Seulement, depuis que je suis une petite fripouille de Bentouille, je veux faire de l'informatique parce que créer des sites web, c'est cool, c'est créatif et en même temps super technique.
+Donc j'ai bouffé 3 années d'études d'info (BTS + Licence Pro en alternance) orienté programmation web. Oui, parce que le réseau et moi, on n'est pas super copaing.
 
-*J'ai l'impression que tu n'as pas beaucoup de copains...*
+*J'ai l'impression que tu n'as pas beaucoup de copains dans la vie...*
 
 ![](https://media.tenor.com/images/fad7b4e4be82686e8ba6d2bfe5dc3173/tenor.gif)
 
 C'est mesquin ce que tu dis, mais passons.
 
-J'ai la fâcheuse tendance à faire planter inopinément des ordinateurs simplement en m'approchant d'eux et à provoquer des bug sortit tout droit des enfers. 
+J'ai la fâcheuse tendance à faire planter inopinément les ordinateurs et à provoquer des bug sortit tout droit des enfers simplement en m'approchant d'eux. 
+
 Anecdote : en cours de réseau durant mon BTS, je démarrais systématiquement la séance en copiant la machine virtuelle de mon pote (spécial dédicace à toi, Alex, si tu lis ça), et je la finissais en l'ayant complètement bousillé d'une manière ou d'une autre. En suivant le même tuto. Avec les conseils de ce pote en spécialité réseau assis juste à côté de moi.
 
-*Ah ouaaaaaai ! Dur de faire plus mauvais que ça quand même... *
+*Ah ouaaaaaai ! Dur de faire plus mauvais que ça quand même...*
 
 ![](https://media.tenor.com/images/ab8efce8ef252c2c6d95f901f17cce71/tenor.gif)
 
-Mais ma principale qualité dans la vie, c'est la persévérance. On peut dire que je suis un peu le cafard de l'informatique.
-Donc j'ai persévéré, j'ai sué, j'ai ragé, j'ai bouffé du bug à la pelle à neige, je me suis accroché à mon slip, j'ai manqué de peu de louper ma licence pro, mais finalement je m'en suis tiré et j'ai trouvé du boulot après la sortie de mes études. Comme quoi, quand on veut, on peut. Ok, j'abuse, des fois, on veut, mais on ne peut pas, parce que la société elle est tous sauf juste et que si tu viens de certaines classes social tout est plus simple pour toi mais je ne suis pas là pour te faire une dissertation sur la question du mérite donc je m'arrête sur cette généralité un peu facile et vas falloir faire avec déso.
+Ouep, tu l'as dit. Mais ma principale qualité dans la vie, c'est la persévérance. On peut dire que je suis un peu le cafard de l'informatique.
+Donc j'ai persévéré, j'ai sué, j'ai ragé, j'ai bouffé du bug à la pelle à neige, je me suis accroché à mon slip, j'ai manqué de peu de louper ma licence pro, mais finalement je m'en suis tiré et j'ai trouvé du boulot après la sortie de mes études. Comme quoi, quand on veut, on peut. 
 
 ![](https://media.tenor.com/images/79752c3e704770baf6036d745824f59f/tenor.gif)
 
+_Ok, j'abuse, des fois, on veut, mais on ne peut pas, parce que la société elle est tous sauf juste et que si tu viens de certaines classes social tout est plus simple pour toi mais je ne suis pas là pour te faire une dissertation sur la question du mérite donc je m'arrête sur cette généralité un peu facile et vas falloir faire avec. Déso._
+
 La suite de votre feuilleton _Plus belle la vie de Bento_ au prochain épisode.  
   
-Ce qu'il faut en retenir, c'est qu'à la base, je ne suis pas doué en info et que je vis en concubinage avec le syndrome de l'imposteur. Mais aussi, que ça ne m'a pas empêché d'apprendre à coder et travailler dans l'informatique. Et j'ai même espoir de devenir un jour ce que l'on nomme un "Bon Développeur". Donc si je peux le faire, il y a des chances que vous puissiez le faire aussi. Ou pas. Peut-être que je suis doué, mais que je vis dans le déni de mon talent et que je ne le sais pas ? Attendez, est-ce que j'existe vraiment ? Est-ce que je ne serais pas dans la Matrix ? Attendez… Je code donc je suis… Nan, c'est bon, j'ai repris pied avec la réalité. Merci m'sieur Descarte.
+Ce qu'il faut en retenir, c'est qu'à la base, je ne suis pas doué en info et que je vis en concubinage avec le syndrome de l'imposteur. Mais aussi, que ça ne m'a pas empêché d'apprendre à coder et travailler dans l'informatique. Et j'ai même espoir de devenir un jour ce que l'on nomme un "Bon Développeur". Donc si je peux le faire, il y a des chances que vous puissiez le faire aussi. 
 
-Pour finir sur Jiro Dreams of Sushi, je vous laisserais en vous citant Mimi, ma prof de BTS Info qui nous répétait constamment (avec son accent du Sud) : `C'est en codant qu'on devient codeur`
+_Ou pas. Peut-être que je suis doué, mais que je vis dans le déni de mon talent et que je ne le sais pas ? Attendez, est-ce que j'existe vraiment ? Est-ce que je ne serais pas dans la Matrix ? Attendez… Je code donc je suis… Nan, c'est bon, j'ai repris pied avec la réalité. Merci m'sieur Descarte._
+
+Pour finir sur Jiro Dreams of Sushi, je vous laisserais en vous citant Mimi, ma prof de BTS Info qui nous répétait constamment (avec son accent du Sud) : 
+
+`C'est en codant qu'on devient codeur.`
 
 ### [La faute de l'école : Pourquoi il faut une révolution de l'éducation (Article)](https://www.mercialfred.com/topos/education)
 
-Le temps de lecture de l'article est estimé à 12 minutes. Donc plutôt que d'écrire un article résumant un article, pourquoi tu n'irais pas juste lire l'article en question ? Regarde, je te pose le lien ici :
+Le temps de lecture de l'article est estimé à 12 minutes. Donc plutôt que d'écrire un article résumant un article, pourquoi tu n'irais pas juste lire l'article en question ? Regarde, je te pose le lien juste ici :
 
-[CLIQUE ICI POUR LIRE UN SUPER ARTICLE BOULEVERSANT TA VISION DE L'EDUCATION](https://www.mercialfred.com/topos/education)
+[CLIQUES-ICI POUR LIRE UN SUPER ARTICLE BOULEVERSANT TA VISION DE L'EDUCATION](https://www.mercialfred.com/topos/education)
 
 #### Le conseil de ton tonton Bento
 
-En lisant cet article, tu t'apercevra que THP s'en inspire beaucoup, et cela te sautera encore plus aux yeux quand tu le vivras pleinement par toi-même. En revanche, la formation ne dure que toi-même et tu auras tout sauf "le temps" de t'épanouir comme il te le faut. Selon moi, c'est à la fois un défaut et une qualité :
+En lisant cet article, tu t'apercevra que THP s'en inspire beaucoup, et cela te sautera encore plus aux yeux quand tu le vivras pleinement par toi-même. En revanche, la formation ne dure que trois mois et tu auras tout sauf "le temps" de t'épanouir comme il te le faut. Selon moi, c'est à la fois un défaut et une qualité :
 
-- Un défaut, car certaines personnes ont besoin de plus de temps que les autres pour apprendre. J'en fais partie. Et me mettre la pression avec des deadlines de fou-furieux et des cours mastoques à boire comme du Yop au petit matin, ce n'est pas trop mon truc à la base. Donc, après THP, je tenterais de garder les mêmes méthodes de travail, mais en étant un peu plus détendu du slibard. Et je rêve de formations publiques, dans le système éducatif traditionnel, qui adopterait la même pédagogie que THP, mais sur un format traditionnel et diplômant de 2, 2 à 5 ans en fonction de jusqu'où on veut pousser nos connaissances. 
+- Un défaut, car certaines personnes ont besoin de plus de temps que les autres pour apprendre. J'en fais partie. Et me mettre la pression avec des deadlines de fou-furieux et des cours mastoques à boire comme du Yop au petit matin, ce n'est pas trop mon truc à la base. Si j'avais bouffé THP à jeun sans jamais avoir codé auparavant, je ne sais même pas si j'aurais survécu plus de quelques semaines. Donc, après THP, je tenterais de garder les mêmes méthodes de travail, mais en étant un peu plus détendu du slibard. Et je rêve de formations publiques dans le système éducatif français, qui adopterait la même pédagogie que THP, mais sur un format traditionnel et diplômant de 2, 3 ou 5 ans en fonction de jusqu'où l'on souhaite pousser nos connaissances. 
 
-- Une qualité, car THP ne fait rien d'autre que de nous préparer au monde professionnel. Et avant THP, j'ai bénéficié d'un peu d’expérience comme développeur donc je peux te t'en toucher un mot et te dire ce que j'ai vu. Déjà, quand tu vas te pointer en entretien en disant que tu es junior, tu vas galérer un peu, mais vu que les entreprises sont en PLS pour recruter du Dev, ils vont quand même essayer de t'appâter comme la galinette cendrée dans le Bouchonnois. Et pour cela, ils vont te dire qu'ils vont te former, que tu auras le temps de te développer, etc… Bullshit. On va te laisser prendre tes marques quelques semaines / mois puis ensuite, tu auras la même pression que les autres, mais aucune formation entre temps pour te faire grimper niveau technique. Donc, soit tu te lève le maffre pour apprendre par toi-même, soit tu level up tout les 36 du mois et ensuite bon courage pour rattraper ton retard technique en voulant changer de boite. En cela, THP t'apprend une compétence essentiel qui est : la débrouillade. Tu apprends à chercher de l'information, et à apprendre le stricte nécessaire pour te permettre de réaliser le projet pour lequel on te paye. C'est tout. De toute façon, l'informatique va tellement vite que le temps que tu apprennes et maîtrise à fond le dernier framework à la mode, il sera déjà replacé par un autre. Je caricature, mais tu saisis l'idée. Apprendre à apprendre vite et efficacement est une qualité essentiel pour un dev. On s'en fou que tu connaisses une techno sur le bout des doigts. Chaque nouveau projet te prouvera que tu ne sais pas tout et que tu devras faire des recherches, lire de la doc et tenter des trucs random jusqu'à ce que ça passe. THP ne t'apprend ni plus ni moins que cela.
+- Une qualité, car THP ne fait rien d'autre que de nous préparer au monde professionnel. Et avant THP, j'ai bénéficié d'un peu d’expérience comme développeur donc je peux t'en toucher une palabre et te dire ce que j'y ai vu. Déjà, quand tu vas te pointer en entretien en disant que tu es junior, tu vas galérer un peu, mais vu que les entreprises sont en PLS pour recruter du Dev, ils vont quand même essayer de t'appâter comme la galinette cendrée dans le Bouchonnois. Et pour cela, ils vont te dire qu'ils vont te former, que tu auras le temps de te développer, etc… Bullshit. On va te laisser prendre tes marques quelques semaines / mois puis ensuite, tu auras la même pression que les autres, mais aucune formation entre temps pour te faire grimper niveau technique. Donc, soit tu te lève le maffre pour apprendre par toi-même, soit tu level up tout les 36 du mois et ensuite bon courage pour rattraper ton retard technique en voulant changer de boite. En cela, THP t'apprend une compétence essentiel qui est : la débrouillade. Tu apprends à chercher de l'information, et à ne prendre que les strictes connaissances nécessaire pour te permettre de réaliser le projet pour lequel on te paye. C'est tout. De toute façon, l'informatique va tellement vite que le temps que tu apprennes et maîtrise à fond le dernier framework à la mode, il sera déjà remplacé par un autre. Je caricature, mais tu saisis l'idée. Apprendre à apprendre vite et efficacement est une qualité essentiel pour un dev. On s'en fou que tu connaisses une techno sur le bout des doigts. Chaque nouveau projet te prouvera que tu ne sais pas tout et que tu devras faire des recherches, lire de la doc et tenter des trucs random jusqu'à ce que ça passe. En soit, tu apprends à savoir que tu sais que tu ne sais rien. Et ça te fera level up sur la plan de la sagesse. Comme Tonton Socrate. THP ne t'apprend ni plus ni moins que cela.
 
 
-### [Céline Alvarez - Les lois naturelles de l'enfant(Livre)](https://www.babelio.com/livres/Alvarez-Les-lois-naturelles-de-lenfant/840483)
+### [Céline Alvarez - Les lois naturelles de l'enfant (Livre)](https://www.babelio.com/livres/Alvarez-Les-lois-naturelles-de-lenfant/840483)
 
 Vous savez à quel point, c'est dur de lire un livre en faisant THP ? Et bah moi, je l'ai fait pour vous. Enfin, non, je l'ai fait pour moi parce que c'est hyper intéressant et révolutionnaire comme thèse pédagogique. Mais j'aime bien passer pour un prince et vous faire culpabiliser afin de renforcer mon ego. Deal with it.
 
 #### Le speech, mais [en deux-deux](https://www.youtube.com/watch?v=5RuU_tBjdGs)
 
-Céline Alvarez, (Cécé comme l'appel ses élèves de petiote section du 92), c'est une jeune femme de 25 ans. Elle finit ses études en posant le constat totalement révolutionnaire que le système scolaire français, c'est de la merde. C'est un peu comme du pain cuit trop vite dans un four trop chaud. La montée n'a pas le temps de se faire et il y a trop d'air dans la mie. Bref, c'est de la merde.
+Céline Alvarez, (Cécé comme l'appel ses élèves de petiote section du 92), c'est une jeune femme qui a finit ses études avec une thèse posant le constat totalement révolutionnaire que le système scolaire français, c'est de la merde. C'est un peu comme du pain cuit trop vite dans un four trop chaud. La montée n'a pas le temps de se faire et il y a trop d'air dans la mie. Bref, c'est de la merde.
 
 ![](https://media.giphy.com/media/GSAyeyIkEs6Z2/giphy.gif)
 
-Non attends, ce n'est pas ça qui est révolutionnaire. C'est la thèse qu'elle écrit pour expliquer pourquoi c'est de la merde (généralement ça donne du poids à une argumentation de dire pourquoi). Pour cette thèse, elle reprend les travaux scientifiques et pédagogiques des docteurs ~~chèvre de monsieur~~ Séguin et Maria Montessori. Mais surtout, elle décide de mettre sa théorie en pratique. Pour ce faire, elle [menace, soudoie, lance une incantation magique, use de ses charmes.] (rayez les mentions inutiles.) le gouvernement et obtient une carte blanche, un budget et des cobayes… Hum, des élèves, pour faire son crash test. Mais vu qu'elle croit dur comme parpaing en sa thèse, elle demande des coba....deeeees élèves, hum, d'une [Zone Education Prioritaire](https://fr.wikipedia.org/wiki/Zone\_d%27%C3%A9ducation\_prioritaire) de Gennevilliers dans le 92.
+Non attends, ce n'est pas ça qui est révolutionnaire. C'est la thèse qu'elle écrit pour expliquer pourquoi c'est de la merde (généralement ça donne du poids à une argumentation de dire pourquoi). Pour cette thèse, elle reprend les travaux scientifiques et pédagogiques des docteurs ~~chèvre de monsieur~~ Séguin et Maria Montessori. Mais surtout, elle décide de mettre sa théorie en pratique. Pour ce faire, elle [menace, soudoie, lance une incantation magique, use de ses charmes.] (rayez les mentions inutiles) le gouvernement et obtient une carte blanche, un budget et des cobayes… Hum, des élèves, pour faire son crash test. Mais vu qu'elle croit dur comme parpaing en sa thèse, elle demande des coba....deeeees élèves, hum, d'une [Zone Education Prioritaire](https://fr.wikipedia.org/wiki/Zone\_d%27%C3%A9ducation\_prioritaire) de Gennevilliers dans le 92.
 
 Le gouvernement se dit que, perdu pour perdu, autant refiler les gosses entre les pattes de l'autre gaucho en espérant qu'elle en fasse de braves citoyens français apte à faire autre chose que de lapider des bagnoles ou cramer du CRS.
 
@@ -226,18 +233,18 @@ THP s'inspire en grande partie de tout ce que je viens de te dire, et si on mél
 - Apprendre à travailler pour soi et pour son intérêt personnel, ses objectifs  
 - Apprendre l'échec (merci les projets trop longs dans des deadlines trop courts)
 
-Ca ressemble à de l'utopie ? Oui et non. C'est ce sur quoi se base THP, l'école 42, et certainement d'autres écoles. De mon point de vue, c'est l'utopie de l'éducation. Le point négatif, c'est qu'aujourd'hui on te condense tout ça dans des formations de maboule mental où tu ressors avec une grosse cuite informationnelle en régurgitant tout ce que t'as appris sur ton pauvre PC. Puis ensuite, tu te dis que t'es con et que ça sert de trop boire si c'est pour finir en PLS et donc t'apprends à boire avec modération pour durer plus longtemps. Je crois que je me suis perdu dans ma métaphore, mais le principe est là.
+Ca ressemble à de l'utopie ? Oui et non. C'est ce sur quoi se base THP, l'école 42, et certainement d'autres écoles. De mon point de vue, c'est le futur de l'éducation. Le point négatif, c'est qu'aujourd'hui on te condense tout ça dans des formations de maboule mental où tu ressors avec une grosse cuite informationnelle en régurgitant tout ce que t'as appris sur ton pauvre PC. Puis ensuite, tu te dis que t'es con et que ça sert à rien de te boire comme un trou si c'est pour finir en PLS. Donc t'apprends à boire avec modération pour durer plus longtemps. Je crois que je me suis perdu dans ma métaphore, mais le principe est là.
 
 Deux petites citations qui m'accompagnent et que je t'offre : 
 
 `L'enfant est un feu à allumer, pas un vase à remplir - François Rabelais`
 
-`L'intellect n'est pas une lumière qui brûle sans huile, il se nourrit de la volonté et des passions - *Francis Bacon*`
+`L'intellect n'est pas une lumière qui brûle sans huile, il se nourrit de la volonté et des passions - Francis Bacon`
 
 #### Le conseil de ton tonton Bento
-Vous vous doutez bien que j'aie vulgarisé et adapter mes propos pour en faire une version qui colle à celle que vous verrez à THP, donc je vous encourage à aller vous faire votre propre idée en lisant le livre de Cécé.  
+Vous vous doutez bien que j'aie vulgarisé et adapter mes propos pour en faire une version qui colle à celle que vous verrez à THP, donc je vous encourage à aller vous faire votre propre idée en lisant le livre de Cécé. Cela bouleversera probablement votre vision de l'éducation, et vous déciderez peut-être de vous former différemment pendant vos études, ou d'éduquer vos enfants d'une autre façon que par le système scolaire classique.
   
-Moi, j'serais vous, je vous le lirais ce livre... Non, moi, j'serais nous, je vous... Si moi, j'étais vous, je vous le lirais ! Non, elle me fait chier cette phrase !
+En bref, moi, j'serais vous, je vous le lirais ce livre... Non, moi, j'serais nous, je vous... Si moi, j'étais vous, je vous le lirais ! Non, elle me fait chier cette phrase !
 
 
 ### [Key Note de Présentation de l'Iphone en 2007 (Conférence)](https://www.youtube.com/watch?v=vN4U5FqrOdQ)
@@ -269,15 +276,15 @@ Je fais volontairement l’impasse sur tout un tas de technologie lancé par App
 Breeeef.  
   
 On peut ne pas les aimer, on peut les critiquer sur leurs produits dont le prix devrait les contraindre par la loi à fournir le tube de vaseline, on peut pester contre leur système verrouillé ressemblant à une secte, mais on ne peut définitivement pas les ignorer.  
-Apple à force de le monde à s'adapter à leurs idées, c'est là toute leur force. La mode des Ipod ? Des Iphones ? Des Macbook? Des Airpod ? Ce sont eux. Je ne les apprécie pas particulièrement #TeamOpenSource, mais je dois reconnaître que j'en prends de la graine.
+Apple à forcé le monde à s'adapter à leurs idées et c'est là toute leur force. La mode des Ipod ? Des Iphones ? Des Macbook? Des Airpod ? Ce sont eux. Je ne les apprécie pas particulièrement #TeamOpenSource, mais je dois reconnaître que j'en prends de la graine.
 
 ![](https://media.tenor.com/images/f48bea56d04dbe3d2893aa3875d445c9/tenor.gif)
 
-Et si tu regardes les dates que je t'ai listées, tu t'apercevras qu'Apple largue à intervalle régulier ses bombes technologiques. Donc mon pronostique, c'est que la prochaine ne devrait pas être très loin. Si on regarde les derniers investissements, on peut voir qu'ils commencent à foutre les panards dans les casques audio (rachat de Beats Audio), le jeu vidéo mobile (Apple Arcade), la banque (Apple Card), l'automobile (Apple CarPlay \+ potentiel voiture AppleCar autonome dont le projet est nommé projet Titan). En gros, tu n'es pas prêt d'arrêter de bouffer des produits Apple à toutes les sauces, tout comme les autres GAFAM.
+Et si tu regardes les dates que je t'ai listées, tu t'apercevras qu'Apple largue à intervalle régulier ses bombes technologiques sur le monde. Donc mon pronostique, c'est que la prochaine ne devrait pas être très loin. Si on regarde les derniers investissements, on peut voir qu'ils commencent à foutre les panards dans les casques audio (rachat de Beats Audio), le jeu vidéo mobile (Apple Arcade), la banque (Apple Card), l'automobile (Apple CarPlay \+ potentiel voiture AppleCar autonome dont le projet est nommé projet Titan). En gros, tu n'es pas prêt d'arrêter de bouffer des produits Apple à toutes les sauces, tout comme les autres GAFAM.
 
 #### Le conseil de ton tonton Bento
 
-Cette conférence, c'est une claque marketing. Et je n'aime pas le marketing, vois-tu, mais un projet informatique est bien obligé de passer par là. Car tu peux nous pondre le meilleur projet de la terre avec un code robuste, maintenable, un chef d’œuvre digne de Papi-Jiro-Nichan… La réalité c'est que si tu n'as pas un marketing béton et bien personne n'utilisera ton appli et celle-ci tombera à jamais dans le néant. C'est la triste réalité. Inversement, tu peux proposer une application de merde, sortir du pognon pour te payer un marketing de fou furieux et réussir à refourguer de la merde à tes utilisateurs avant de commencer à foutre du scotch sur ton app afin que les utilisateurs râlent un tantinet moins (sauf s'ils sont français, là y a rien à faire) et ne quittent pas le navire avant de les avoir dépouillés de leurs deniers.
+Cette conférence, c'est une claque marketing. Et je n'aime pas le marketing, vois-tu, mais un projet informatique est bien obligé de passer par là. Car tu peux nous pondre le meilleur projet de la terre avec un code robuste, maintenable, un chef d’œuvre digne de Papi-Jiro-Nichan… La réalité c'est que si tu n'as pas un marketing béton et bien personne n'utilisera ton appli et celle-ci tombera à jamais dans le néant. C'est la triste réalité. Inversement, tu peux proposer une application de merde, sortir du pognon pour te payer un marketing de fou furieux et réussir à refourguer de la merde à tes utilisateurs avant de commencer à foutre du scotch sur ton app afin que les utilisateurs râlent un tantinet moins (sauf s'ils sont français, là y a rien à faire) et ne quittent pas le navire avant d'avoir pu les dépouiller de leurs deniers.
 
 
 
@@ -285,19 +292,19 @@ Cette conférence, c'est une claque marketing. Et je n'aime pas le marketing, vo
 
 #### Le speech, mais [en deux-deux](https://www.youtube.com/watch?v=5RuU_tBjdGs)
 
-Une série TV dramatique produit par les Amerloks (pour changer). Explication du titre par [Wikipédia](https://fr.wikipedia.org/wiki/Halt_and_Catch_Fire_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)) : 
+Une série TV dramatique produit par les amerloks (pour changer). Explication du titre par [Wikipédia](https://fr.wikipedia.org/wiki/Halt_and_Catch_Fire_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)) : 
 
-_Le titre est une inside joke utilisée dans le domaine de l'informatique : il fait référence à la ligne de code « Halt and Catch Fire », une instruction en langage machine légendaire prétendument en développement chez IBM qui ferait surchauffer les composants jusqu'à ce qu'ils prennent feu. La phrase fait partie d'un certain nombre d'instructions humoristiques utilisées par les programmeurs informatiques depuis les années 1960. _
+*Le titre est une inside joke utilisée dans le domaine de l'informatique : il fait référence à la ligne de code « Halt and Catch Fire », une instruction en langage machine légendaire prétendument en développement chez IBM qui ferait surchauffer les composants jusqu'à ce qu'ils prennent feu. La phrase fait partie d'un certain nombre d'instructions humoristiques utilisées par les programmeurs informatiques depuis les années 1960. *
 
 Je suis une bille en synopsis, donc voilà encore celui de Wikipédia : 
 
-_La première saison de la série se déroule au début des années 1980 à Dallas, et dépeint la mise en place des ordinateurs personnels (PC) et du marché informatique destiné aux particuliers, opposant une petite entreprise texane fictive, Cardiff Electric, à la multinationale, cette fois bien réelle, IBM, créatrice de l'IBM PC3._
+*La première saison de la série se déroule au début des années 1980 à Dallas, et dépeint la mise en place des ordinateurs personnels (PC) et du marché informatique destiné aux particuliers, opposant une petite entreprise texane fictive, Cardiff Electric, à la multinationale, cette fois bien réelle, IBM, créatrice de l'IBM PC3.*
 
-_Portée par la vision de l'énigmatique Joe MacMillan, un ancien vendeur d'IBM, qui constitue une équipe, l'entreprise se lance dans la production d'un ordinateur personnel portable deux fois plus rapide et plus petit que ce qui existe sur le marché..._
+*Portée par la vision de l'énigmatique Joe MacMillan, un ancien vendeur d'IBM, qui constitue une équipe, l'entreprise se lance dans la production d'un ordinateur personnel portable deux fois plus rapide et plus petit que ce qui existe sur le marché...*
 
-_Par la suite, et au fil des épisodes et des saisons, les protagonistes affrontent les différentes révolutions technologiques, qui, au tournant des années 1980-1990, vont transformer l'ordinateur personnel, dépassant sa vocation utilitaire originelle, en un engin multitâche, de plus en plus compact et rapide, explorant les débuts de l'interconnexion grâce à la mise en place de l'internet, les débuts de la numérisation, du rendu vidéo en couleurs, etc. _
+*Par la suite, et au fil des épisodes et des saisons, les protagonistes affrontent les différentes révolutions technologiques, qui, au tournant des années 1980-1990, vont transformer l'ordinateur personnel, dépassant sa vocation utilitaire originelle, en un engin multitâche, de plus en plus compact et rapide, explorant les débuts de l'interconnexion grâce à la mise en place de l'internet, les débuts de la numérisation, du rendu vidéo en couleurs, etc. *
 
-[Une super critique a été rédigé]((https://www.slate.fr/story/152540/halt-and-catch-fire-fin) et je te conseille fortement de la lire pour te faire saliver d'envie de voir la série. Je VEUX que tu DOIS la lire, c'est compris ?
+[Une super critique a été rédigé](https://www.slate.fr/story/152540/halt-and-catch-fire-fin) et je te conseille fortement de la lire pour te faire saliver d'envie de voir la série. Je VEUX que tu DOIS la lire, c'est compris ?
 
 ![](https://media.tenor.com/images/913aaa5bbd55e1cbd37496e6682e3d2a/tenor.gif)
 
@@ -308,9 +315,11 @@ Ok Boomer, passes à côté de la série de ta vie et retourne gober la dernièr
 ![](https://media.tenor.com/images/5a25d2851792b9042619245147356fd8/tenor.gif)
 #### L'explication de ton tonton Bento
 
-###### Internet comme moyen d'atteindre avec l'Autre
+###### Internet comme moyen d'atteindre l'Autre
 
-Au cours de la série, une citation du personnage Joe MacMillan revient régulièrement`Computer is not the thing. It's the thing that gets you to the thing`
+Au cours de la série, une citation du personnage Joe MacMillan revient régulièrement :
+
+`Computer is not the thing. It's the thing that gets you to the thing`
 
 Celle-ci signifie une chose : l'ordinateur n'est qu'un outil qui nous permet d'atteindre quelque chose d'autre. Mais atteindre quoi ? Selon moi, "the thing" ne signifie rien de plus que "l'Homme", ou "autrui". En effet, la phrase suivante est également citée: `The desir to connect with people`et fait part des motivations de nos protagonistes à travers leurs créations. Lorsque Cameron Howe écrit son OS pour l'ordinateur The Giant, que Gordon et Joe sont en train de créer, elle va jusqu'à donner une personnalité à son OS en programmant des réponses personnalisés en fonction des informations de l'utilisateur. Elle veut surpasser le côté froid de la machine pour créer un contact humain chaleureux. Même chose lorsqu'elle créera des jeux vidéo en réseaux, amenant à l'élaboration d'un système de forum et de chat en ligne à la base anodin, mais finissant par prendre le pas sur tout le reste pour devenir le projet principal de la société. Car son système est utilisé pour créer du lien entre des personnes trop loin géographiquement et n'ayant pas forcément la possibilité ou même l'envie de se rencontrer physiquement. Sous couvert d'anonymat, certaines personnes se libèrent, les langues se délient et les esprits s'ouvrent d'une manière qui ne leur est d'ordinaire pas possible/facile dans la réalité.
 
@@ -331,24 +340,29 @@ Chacun est libre de ses choix moraux, mais doit répondre de ses actes. Ce n'est
 
 Ma série préférée. Je l'ai vu, revu, revu, revu, revu, revu, et je pense la revoir bientôt. D'ailleurs, je pourrais être en train de la revoir si je n'étais pas en train d'écrire cet article beaucoup trop long espèce de petit mécréant. La série est méga sous-côté, mais vaut mieux que les meilleures séries de Netflix réunis (avis totalement biaisé). Les personnages sont complexes et ne cessent d'évoluer en même temps que leurs relations. Ils passent tantôt au premier plan, tantôt au second plan, pour finalement nous laisser complètement attaché à tous les personnages tout en les haïssant pour certains de leurs aspects. En gros, on a vraiment l'impression d'aimer un personnage humain avec ses bons et mauvais côtés. Comme dans la vraie vie. Le rythme est soutenu, efficace, haletant. Les drames et cliff-hanger sont dans la juste mesure et utiliser à bon escient. On redécouvre l'histoire réelle de l'informatique à travers une série et des personnages fictifs et cela nous donne un brin de nostalgie couplé à une envie d'en découvrir plus sur ce monde d'antan. Si vous aimez les séries, et que vous aimez l'informatique, je ne vois pas comment vous ne pourriez pas aimer cette série.  
   
-Donc mon conseil, c'est lâche la saison i+n de \[La Casa de Papel Culo\](https://www.youtube.com/watch?v=aEp8Ya2VLsk) puis visionnes et re-visionnes Halt And Catch Fire, jusqu'à ce que la faucheuse vous sépare. Amen. Vous pouvez visionner la série.
+Donc mon conseil, c'est lâche la saison i+n de [La Casa de Papel Culo](https://www.youtube.com/watch?v=aEp8Ya2VLsk) puis visionnes et re-visionnes Halt And Catch Fire, jusqu'à ce que la faucheuse vous sépare. Amen. Vous pouvez visionner la série.
 
 
 
 ### Bonus : Mes recommandations personnels
 
-Parce que je t'aime bien, je vais te faire une fleur et te conseiller deux trois bouquins à lire afin que tu puisses bouffer autre chose que du code matin midi et soir et que tu puisses développer ton esprit critiques envers le monde dans lequel tu t'apprêtes à entrer. Parce que ce qui se passe en info, c'est pas tous les jours jojo et ça peut vite déraper en dystopie Orwellienne si on n'y prend pas garde. Et crois-moi, t'as pas envie que des gens te regardent et t'écoute en permanence à travers tes appareils électroniques. Euh… Ce ne serait pas déjà trop tard ? (Coucou Google Assisstant, Apple Siri, Amazon Alexa, la NSA et toute la clique).  
+Parce que je t'aime bien, je vais te faire une fleur et te conseiller deux trois bouquins à lire afin que tu puisses bouffer autre chose que du code matin midi et soir et que tu puisses développer ton esprit critiques envers le monde dans lequel tu t'apprêtes à entrer. Parce que ce qui se passe en info, c'est pas tous les jours jojo et ça peut vite déraper en dystopie Orwellienne si on n'y prend pas garde. Et crois-moi, t'as pas envie que des gens te regardent et t'écoute en permanence à travers tes appareils électroniques. Euh… Ce ne serait pas déjà trop tard ? (Coucou Google Assistant, Apple Siri, Amazon Alexa, la NSA et toute la clique).  
   
 Les livres pour te mettre en garde :  
 - [Edward Snowden, Mémoires Vives](https://www.babelio.com/livres/Snowden-Memoires-vives/1162306)  
-- [George Orwell, 1984](https://www.babelio.com/livres/Orwell-1984/2961)  
+- [George Orwell, 1984](https://www.babelio.com/livres/Orwell-1984/2961) 
+- [Marc Dugain - Transparence](https://www.babelio.com/livres/Dugain-Transparence/1132294)
   
 Le livre pour te donner un maître de pensée et te forger une ligne de conduite :  
-- [Marc Aurèle, mes pensées](https://www.babelio.com/livres/Marc-Aurele-Pensees/208305)  
+- [Marc Aurèle, mes pensées](https://www.babelio.com/livres/Marc-Aurele-Pensees/208305)
+
+Le livre pour te donner envie d'un monde meilleur et t'inciter à le créer avec tes p'tites mimines :
+- [Thomas More - L'Utopie](https://www.babelio.com/livres/More-LUtopie/1053400) 
+- [Aymeric Caron - Utopia XXI](https://www.babelio.com/livres/Caron-Utopia-XXI/999265)
   
 Wallou. J'espère que vous avez kiffé ?
 
 ![](https://media.giphy.com/media/rhQENGnznnBT2/giphy.gif)
 
 
-Bisous.
+Des bisous.
