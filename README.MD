@@ -1,4 +1,4 @@
-# Analyse des ressources pré-THP fournis
+# Analyse des ressources culturelles fournis par THP
 
 La méthode ~~Coué~~ Bento :
 
